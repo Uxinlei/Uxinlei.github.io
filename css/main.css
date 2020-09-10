@@ -61,6 +61,7 @@ body {
 
 .brief {
     font-size: 12px;
+    font-style: italic;
     color: #8e8e8e;
     display: block;
     position: absolute;
