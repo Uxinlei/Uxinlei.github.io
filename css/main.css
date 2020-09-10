@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../font/gilroy-regular.otf');
+}
+
+@font-face {
+    font-family: 'GilroyBold';
+    src: url('../font/gilroy-bold.otf');
+}
+
 * {
     box-sizing: border-box;
     font-family: Gilroy;
@@ -22,6 +32,7 @@ body {
 }
 
 .title {
+    font-family: GilroyBold;
     font-weight: bold;
     color: #424242;
     font-size: 36px;
